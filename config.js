@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5214271951557", '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', true],
-["51948705559", '𝙊𝙬𝙣𝙚𝙧', true], 
+["5214271951557", 'Hack School', true],
+["51950615082", '𝙊𝙬𝙣𝙚𝙧', true], 
 //["5217441745021"], 
 ["5217442363122", true], 
 ["584166718372"],
@@ -95,7 +95,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["51906662557", 'Katashi 💻', 1], 
+["51950615082", '⺐ㅤ𝙼𝙴𝚇ㅤㅤx3 💻', 1], 
 ["5217442363122", '𝑖𝑍𝑖 👻', 1],  
 ["584166718372", 'Jesus 💻', 1],
 ["5218771647787", 'IssSG', 1],
@@ -106,18 +106,18 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
-global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥"
+global.packname = "☆ HACK SCHOOL☆"
+global.author = "✥Mex X3✥"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
+global.gt = "☆ HACK SCHOOL☆"
 global.yt = "https://youtube.com/@KatashiFukushima"
 global.yt2 = "https://www.youtube.com/shorts/ZLJYDUM6vSY"
-global.ig = "https://www.instagram.com/gkatashi_fukushima"
+global.ig = "https://www.instagram.com/hack.school.mixto"
 global.md = "https://github.com/KatashiFukushima/KatashiBot-MD"
 global.fb = "https://www.facebook.com/KatashiFukushima23"
 
